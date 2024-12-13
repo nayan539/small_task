@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+/* navbar */
+nav{width: 100%;
+    background-color: rgb(59, 59, 59);
+    height: 60px;
+}
+.navbar{
+    width: 290px;
+    height: 60px;
+    margin: 0 auto;
+}
+li{
+    color: white;
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 60px;
+}
+
+
+/* main */
+
+/* fisrt row */
+
+.main{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.fst_row{
+    width: 100%;
+}
+.fst_fst{
+    float: left;
+}
+.fst_sec{
+    margin-left: 550px;
+    padding: 20px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+img{
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 50px;
+}
+button{
+    width: 150px;
+    border-radius: 8px;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+
+/* second row */
+.sec_row{
+    width: 100%;
+    clear: both;
+}
+.sec_fir{
+    width: 500px;
+    float: left;
+}
+.sec_sec{
+    margin-left: 550px;
+}
+/* third row */
+
+.thrd_fst{
+    float: left;
+}
+.thrd_sec{
+    margin-left: 550px;
+    padding: 20px;
+}
+/* footer */
+footer{
+    width: 100%;
+    clear: both;
+    height: 150px;
+    padding: 20px;
+    background-color: rgb(59, 59, 59);
+}
+.footer{
+    width: 500px;
+    background-color: azure;
+}
+h4{
+    color: white;
+}
+.f-item h5{
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+.f-item a{
+    color: white;
+}
+.fst{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.scnd{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.thrd{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.frth{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.fift{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.f-item{
+    width: 700px;
+    height: 110px;
+    margin: 0 auto;
+}
+/* .f-item a{
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+} */
+.f-item h4{
+    margin-bottom: 15px;
+}
